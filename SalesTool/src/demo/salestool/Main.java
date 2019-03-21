@@ -15,6 +15,9 @@ public class Main {
 		// TODO Auto-generated method stub
 		 System.out.println("inside static method of firstMethod ,,,,,");
 		 System.out.println("inside static method of firstMethod ,,,,,");
+		 
+		 System.out.println("arohi sudhanshu,,,,");
+		 System.out.println(" sudhanshu   ");
 	}
 	
 }
