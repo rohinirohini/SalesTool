@@ -14,11 +14,6 @@ public class Main {
 	private static void firstMethod() {
 		// TODO Auto-generated method stub
 		
-		 System.out.println("inside static method of firstMethod ,,,,,");
-		 
-		
-		 
-		 System.out.println("       for backing out changes");
 		
 
 	}
