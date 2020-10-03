@@ -15,8 +15,8 @@ public class Main {
 		// TODO Auto-generated method stub
 		
 		 System.out.println("changes in branch1 will ,urge in master");
-		 System.out.println("for rebase check");
-
+		 System.out.println("for rebase");
+		 
 	}
 	
 }
